@@ -6,6 +6,4 @@ Here are the topics of git to learn
 3. git config
 4. repo
 5. 3 stage architecture
-=======
-Here are the topics of git to learn
->>>>>>> parent of 87dd0e3 (added topic one)
+6. version control 
