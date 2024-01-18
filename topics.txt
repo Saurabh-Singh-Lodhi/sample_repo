@@ -7,3 +7,10 @@ Here are the topics of git to learn
 4. repo
 5. 3 stage architecture
 6. version control 
+7. examine history
+8. git branch
+9. merge
+10. conflicts
+11. remote repo
+12. github
+13. 
