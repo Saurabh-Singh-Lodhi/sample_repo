@@ -1,0 +1,7 @@
+git intro
+installation
+git config
+git init
+3 - stage architecture
+version control 
+examine history
