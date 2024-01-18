@@ -1,0 +1,16 @@
+git intro
+installation
+git config
+git init
+3 - stage architecture
+version control 
+examine history
+git branch
+git merge 
+git conflicts
+git remote connection
+git hub
+git push
+git pull
+git fetch
+git merge
