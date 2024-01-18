@@ -4,8 +4,12 @@ Here are the topics of git to learn
 1. git overview
 2. installation
 3. git config
+<<<<<<< HEAD
 4. repo
 5. 3 stage architecture
 =======
 Here are the topics of git to learn
 >>>>>>> parent of 87dd0e3 (added topic one)
+=======
+4. repo
+>>>>>>> parent of 121ada4 (added 5th topic)
