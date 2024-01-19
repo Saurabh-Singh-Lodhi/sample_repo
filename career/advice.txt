@@ -2,7 +2,7 @@ DSA
 System Design 
 Interview Prep
 Communication ->
-                                    read books
+it is very important                                   read books
 people relations ->
 
 networking
