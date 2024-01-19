@@ -1,0 +1,4 @@
+Roadmap to learn DSA
+start with array 
+practise array for 15days 
+practise string for at least 15 days
